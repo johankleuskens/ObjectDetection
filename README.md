@@ -19,7 +19,7 @@ After installing python 3.6.0, I installed the following packages via "pip insta
 
 Please note that I was not able to upoad the yolo.h5 file in the model_data directory as it is too large ( > 100MB). This file contains the trained data for the YOLO network.
 
-COPYRIGHT
+**COPYRIGHT**
 
 All contributions by deeplearning.ai (Kian Katanforoosh, Younes Bensouda Mourri, Andrew Ng):
 Copyright (c) 2017, deeplearning.ai (Kian Katanforoosh, Younes Bensouda Mourri, Andrew Ng).
