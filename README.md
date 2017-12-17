@@ -18,3 +18,23 @@ After installing python 3.6.0, I installed the following packages via "pip insta
 - keras, image, tensorflow, h5py
 
 Please note that I was not able to upoad the yolo.h5 file in the model_data directory as it is too large ( > 100MB). This file contains the trained data for the YOLO network.
+
+COPYRIGHT
+
+All contributions by deeplearning.ai (Kian Katanforoosh, Younes Bensouda Mourri, Andrew Ng):
+Copyright (c) 2017, deeplearning.ai (Kian Katanforoosh, Younes Bensouda Mourri, Andrew Ng).
+All rights reserved.
+
+This work incorporates contributions due to Allan Zelener released under an MIT License, reproduced below:
+
+----------------------------------------------------
+All contributions by Allan Zelener:
+Copyright (c) 2017, Allan Zelener.
+All rights reserved.
+
+All other contributions:
+Copyright (c) 2017, the respective contributors.
+All rights reserved.
+
+Each contributor holds copyright over their respective contributions.
+The project versioning (Git) records all such contribution source information.
