@@ -1,4 +1,4 @@
-# ObjectDetection
+# Object Detection
 **Courseras Deep Learning Object Detection Algoritm**.
 
 This is my version of the Object Detection source code from the Deep Learning Coursera course. I changed this a little bit so it \
